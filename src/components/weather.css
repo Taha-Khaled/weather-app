@@ -1,0 +1,14 @@
+.container {
+  background-color: #e8f0fe;
+  width: 50%;
+  display: inline-block;
+  margin: 10px;
+}
+
+p {
+  padding: 3px;
+  font-size: 15px;
+  border-left: 6px solid #ccc;
+  border-color: #2196f3;
+  color: #135992;
+}
