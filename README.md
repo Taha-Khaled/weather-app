@@ -1,4 +1,4 @@
-live version : https://github.com/tahakhalled/weather-app/settings/pages
+live version : https://tahakhalled.github.io/weather-app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
